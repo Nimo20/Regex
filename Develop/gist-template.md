@@ -9,8 +9,8 @@ The regex /^([a-f0-9]{6}|[a-f0-9]{3})$/ matches 6-character or 3-character hex c
 
 ## Table of Contents
 
-- [Start Anchor (^)](#Start-Anchor(^))
-- [Hex Color Code Group ([a-f0-9]{6}|[a-f0-9]{3})](#Hex-Color-Code-Group-([a-f0-9]{6}|[a-f0-9]{3}))
+- [Start Anchor (^)](#Start-Anchor)
+- [Hex Color Code Group ([a-f0-9]{6}|[a-f0-9]{3})](#Hex-Color-Code-Group)
 - [End Anchor ($)](#End-Anchor)
 - [Author Information](#Author-Information)
 
