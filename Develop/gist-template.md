@@ -1,4 +1,4 @@
-# Regex Tutorial: Understanding Hex Color Codes
+# Regex Tutorial:
 
 Regular expressions, often abbreviated as regex or regexp, are powerful tools for pattern matching and text manipulation. They provide a concise and flexible syntax for describing search patterns within strings of text. Regular expressions are widely used in various programming languages, text editors, and command-line tools for tasks such as data validation, text parsing, and string manipulation.
 
