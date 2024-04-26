@@ -164,6 +164,6 @@ Look-ahead and look-behind assertions are used to check if a pattern is followed
 
 ## Author
 
-This tutorial was written by Nimo Shirille. She is passionate about coding and enjoys sharing knowledge with others. If you have any questions or feedback about this tutorial, feel free to reach out to me via github.
+This tutorial was written by Nimo Shirille. I am passionate about progrramming and enjoys sharing knowledge with others. If you have any questions or feedback about this tutorial, feel free to reach out to me via github.
 
 Github link: [Nimo20](https://github.com/Nimo20)
