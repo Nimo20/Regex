@@ -1,10 +1,10 @@
-# Regex Tutorial:
+# Regex Tutorial
 
 Regular expressions, often abbreviated as regex or regexp, are powerful tools for pattern matching and text manipulation. They provide a concise and flexible syntax for describing search patterns within strings of text. Regular expressions are widely used in various programming languages, text editors, and command-line tools for tasks such as data validation, text parsing, and string manipulation.
 
 At their core, regular expressions consist of a sequence of characters and metacharacters that define a search pattern. These patterns can match specific sequences of characters, such as digits, letters, or symbols, as well as more complex patterns involving repetition, alternation, and grouping.
 
-## Summary:
+## Summary
 
 
 In this regex tutorial, we will explore a specific regex pattern used in JavaScript for matching character escapes. The regex pattern allows for identifying and matching special characters within a string, enabling precise text manipulation and validation in full stack application development. By delving into the components of this regex pattern, you will gain a deeper understanding of how character escapes can be effectively utilized in your coding projects. Let's unravel the power of character escapes in regex!
