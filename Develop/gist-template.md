@@ -22,7 +22,7 @@ In this regex tutorial, we will explore a specific regex pattern used in JavaScr
 - [Boundaries](#Boundaries)
 - [Back-references](#Back-references)
 - [Look-ahead and Look-behind](#Look-aheadandLook-behind)
-
+- [Author](#Author)
 ##  Anchor (^)
 
 Anchors in regular expressions are used to specify the position of a match within the text. The two most common anchors are:
@@ -162,7 +162,7 @@ Look-ahead and look-behind assertions are used to check if a pattern is followed
 - Negative Look-behind ((?<!...)): Matches a pattern only if it is not preceded by another pattern.
 
 
-## Author Information
+## Author
 
 This tutorial was written by Nimo Shirille. She is passionate about coding and enjoys sharing knowledge with others. If you have any questions or feedback about this tutorial, feel free to reach out to me via github.
 
